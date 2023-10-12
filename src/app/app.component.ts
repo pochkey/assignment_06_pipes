@@ -7,4 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'assignment_06_pipes';
+ 
+array_mnth: string[]=['jan','feb','mar','apr','may','jun','jul'];
 }
